@@ -5,10 +5,25 @@ A production-minded Single Page Application using **React + Vite + TypeScript** 
 Implements browsing & CRUD per the assessment:
 
 - View list of **users**
+  
+  <img width="622" height="357" alt="image" src="https://github.com/user-attachments/assets/c2c684f2-2ec6-471d-b327-aeb001d02e10" />
+
 - View **posts** and **albums** per user
+  
+  <img width="624" height="356" alt="image" src="https://github.com/user-attachments/assets/487ba04f-2878-4dd1-83ff-4b282c0b211f" />
+
 - View **post detail** + **comments**
+  
+  <img width="626" height="359" alt="image" src="https://github.com/user-attachments/assets/1ac6fd23-8fc0-412b-849f-6ea73c42808b" />
+
 - View **photos** in an album
+  
+  <img width="625" height="355" alt="image" src="https://github.com/user-attachments/assets/24f383f6-1990-4205-ae39-5b395ec60e3e" />
+
 - View **photo detail**
+  
+  <img width="625" height="358" alt="image" src="https://github.com/user-attachments/assets/90562349-f181-48e0-870e-2b01a8ba613b" />
+
 - **CRUD posts** (add, edit, delete) — optimistic UI
 - **CRUD comments** (add, edit, delete) — optimistic UI
 
